@@ -1,0 +1,4 @@
+cockroach.zip
+cockroach/cockroach-v21.1.5.windows-6.2-amd64/cockroach.exe
+cockroach/cockroach-v21.1.5.windows-6.2-amd64/lib/libgeos_c.dll
+cockroach/cockroach-v21.1.5.windows-6.2-amd64/lib/libgeos.dll
