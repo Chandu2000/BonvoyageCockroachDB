@@ -1,2 +1,2 @@
 sqlalchemy-cockroachdb
-flash-sqlalchemy
+flask-sqlalchemy
